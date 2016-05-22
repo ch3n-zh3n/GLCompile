@@ -1,1 +1,2 @@
-# GLCompile
+# OpenGL Compile line for Linux.
+
