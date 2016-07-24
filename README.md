@@ -1,2 +1,2 @@
-# OpenGL Compile line for Linux.
+# OpenGL(GLUT) Compile line for Linux.
 
